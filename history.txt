@@ -2,4 +2,5 @@ Hola, mi nombre es Samuel Tomas, tengo 23 años
 Soy estudiante de programacion y me encanta la robotica.
 amante de los autos y drones
 
-Hoy hablaremos de sus estudios.
+Hoy hablaremos de mis estudios.
+Soy tecnico en informatica y estoy estudiando Tecnicatura en sistemas informaticos
