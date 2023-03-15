@@ -47,3 +47,12 @@ body{
     padding: 1em;
 }
 
+#footer{
+    background: rgb(46,46,47);
+    background: linear-gradient(180deg, rgba(46,46,47,1) 0%, rgba(42,42,45,1) 41%, rgba(45,47,48,1) 100%);
+    padding: 1em;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}
+
